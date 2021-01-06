@@ -1,0 +1,7 @@
+Each browser tab requires 5 connections
+
+Allow for multiple tabs per user
+
+Each SignalR Unit can handle 1000 connections
+
+Currently have a limit of 20,000 users (browser tabs)
