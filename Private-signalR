@@ -5,3 +5,9 @@ Allow for multiple tabs per user
 Each SignalR Unit can handle 1000 connections
 
 Currently have a limit of 20,000 users (browser tabs) on standard package in Azure
+
+Some features that require SignalR
+Chat
+User presence
+Occupation
+Breakout Rooms
